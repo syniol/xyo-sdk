@@ -4,5 +4,5 @@ Centralised Documentation for XYO Financial SDK. There are currently three produ
  * [Go (Golang)](https://github.com/syniol/xyo-sdk-go)
  * [Node.js](https://github.com/syniol/xyo-sdk-node)
  * [PHP](https://github.com/syniol/xyo-sdk-php)
- * Rust: [In Progress](https://github.com/syniol/xyo-sdk-rust)
+ * [Rust](https://github.com/syniol/xyo-sdk-rust)
  * Java: _Future Planned_
