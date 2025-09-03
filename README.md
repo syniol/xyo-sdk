@@ -5,4 +5,4 @@ Centralised Documentation for XYO Financial SDK. There are currently three produ
  * [Node.js](https://github.com/syniol/xyo-sdk-node)
  * [PHP](https://github.com/syniol/xyo-sdk-php)
  * [Rust](https://github.com/syniol/xyo-sdk-rust)
- * Java: _Future Planned_
+ * Java: <small>_Future Planned_</small>
