@@ -6,4 +6,3 @@ Centralised Documentation for XYO Financial SDK. There are currently three produ
  * [PHP](https://github.com/syniol/xyo-sdk-php)
  * [Rust](https://github.com/syniol/xyo-sdk-rust)
  * Java: _Future Planned_
- * Python: _It's not happening. Python belongs to coding schools for teens not an Adult building an enterpirse_
