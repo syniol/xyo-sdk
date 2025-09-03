@@ -1,5 +1,5 @@
 # XYO SDK
-Centralised Documentation for XYO Financial SDK. There are currently three production ready SDK available for:
+Centralised Documentation for XYO Financial SDK. There are currently four production ready SDK available for:
 
  * [Go (Golang)](https://github.com/syniol/xyo-sdk-go)
  * [Node.js](https://github.com/syniol/xyo-sdk-node)
